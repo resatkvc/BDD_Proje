@@ -29,4 +29,3 @@ BDD_Proje/
 
 ## Notlar
 - Farklı ortamlar veya test verileri için sadece `config.properties` dosyasını değiştirmeniz yeterlidir.
-- Proje, Page Object Model ve profesyonel BDD pratiklerine uygun olarak yapılandırılmıştır.
